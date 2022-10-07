@@ -17,6 +17,8 @@ function About() {
           <h3>list of projects</h3>
           <h3 > <a href="https://m-soriano.github.io/run-buddy/"> Runbuddy</a></h3>
           <h3 > <a href="https://triciaax.github.io/Wine-and-Dine/"> Wine-and-Dine</a></h3>
+          <h3 > <a href="https://github.com/wagnergabe/Wandrlust">Wandrlust repository</a></h3>
+
 
 
          
